@@ -26,7 +26,10 @@ def bonus
    
                    :capulet => {
                   :heroine => {name: "Juliet", age: "15", status: "dead"},
-                  puts
+                  puts epic_tragedy
+                  
+                end
+                
                 
  
   #Don't touch the following line! The `bonus` method must return our newly modified epic tragedy hash
